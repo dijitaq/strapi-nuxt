@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_posts_rich_texts",
+  "info": {
+    "name": "richText",
+    "icon": "edit"
+  },
+  "options": {},
+  "attributes": {
+    "richText": {
+      "type": "richtext"
+    }
+  }
+}
